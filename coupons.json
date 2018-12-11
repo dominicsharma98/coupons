@@ -1,0 +1,32 @@
+{
+  "coupons": [
+    {
+      "name": "coupondunia",
+      "url": "https://www.coupondunia.in/"
+    },
+    {
+      "name": "desidime",
+      "url": "https://www.desidime.com/coupons"
+    },
+    {
+      "name": "groupon",
+      "url": "https://www.groupon.com/coupons"
+    },
+    {
+      "name": "flipp",
+      "url": "https://flipp.com/coupons"
+    },
+    {
+      "name": "slickdeals",
+      "url": "https://slickdeals.net/coupons/"
+    },
+    {
+      "name": "amazon",
+      "url": "https://www.amazon.com/Coupons/b?ie=UTF8&node=2231352011"
+    },
+    {
+      "name": "makemytrip",
+      "url": "https://www.makemytrip.com/daily-deals/flights/"
+    }
+  ]
+}
