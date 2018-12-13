@@ -1,9 +1,9 @@
 {
   "coupons": [
     {
-      "name": "coupondunia",
-      "url": "https://www.coupondunia.in/",
-      "purl": "https://www.coupondunia.in/modules/web/assets/images/coupondunia-logo-og.png/"
+      "name": "7coupons",
+      "url": "https://7coupons.in/",
+      "purl": "https://7coupons.in/images/logo.png"
     },
     {
       "name": "desidime",
@@ -11,9 +11,9 @@
       "purl": "https://cdn3.desidime.com/topics/photos/907396/medium/login_signup_logo-bee8591c9afd8f7997e5ebbaefb8ac5a.png"
     },
     {
-      "name": "groupon",
-      "url": "https://www.groupon.com/coupons",
-      "purl": "https://www.coupondunia.in/modules/web/assets/images/coupondunia-logo-og.png/"
+      "name": "Oneindia Coupons",
+      "url": "https://coupons.oneindia.com/",
+      "purl": "https://d1wgugustmojuh.cloudfront.net/images/wls/oneindia/logo.png"
     },
     {
       "name": "flipp",
@@ -31,9 +31,19 @@
       "purl": "http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png"
     },
     {
-      "name": "makemytrip",
-      "url": "https://www.makemytrip.com/daily-deals/flights/",
-      "purl": "https://www.coupondunia.in/modules/web/assets/images/coupondunia-logo-og.png/"
+      "name": "Freekaamaal",
+      "url": "https://freekaamaal.com/coupons",
+      "purl": "https://images.freekaamaal.com/common-images/fkm-logo.png"
+    },
+    {
+      "name": "Couponzguru",
+      "url": "https://www.couponzguru.com/",
+      "purl": "https://www.couponzguru.com/wp-content/uploads/logo.png"
+    },
+    {
+      "name": "Mcdonalds",
+      "url": "https://www.mcdonalds.com/us/en-us/deals.html",
+      "purl": "https://www.mcdonalds.com/content/dam/usa/logo/m_logo.png"
     }
   ]
 }
