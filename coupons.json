@@ -8,12 +8,12 @@
     {
       "name": "desidime",
       "url": "https://www.desidime.com/coupons",
-      "purl": "https://cdn3.desidime.com/topics/photos/907396/medium/login_signup_logo-bee8591c9afd8f7997e5ebbaefb8ac5a.png?1538319541"
+      "purl": "https://cdn3.desidime.com/topics/photos/907396/medium/login_signup_logo-bee8591c9afd8f7997e5ebbaefb8ac5a.png"
     },
     {
       "name": "groupon",
       "url": "https://www.groupon.com/coupons",
-      "purl": "https://raw.githubusercontent.com/dominicsharma98/coupons/couponsavailable/coupons.json"
+      "purl": "https://www.coupondunia.in/modules/web/assets/images/coupondunia-logo-og.png/"
     },
     {
       "name": "flipp",
@@ -33,7 +33,7 @@
     {
       "name": "makemytrip",
       "url": "https://www.makemytrip.com/daily-deals/flights/",
-      "purl": "https://img.etimg.com/thumb/msid-60244113,width-300,imgsize-26242,resizemode-4/hotels-to-contribute-75-of-total-business-by-2020-makemytrip.jpg"
+      "purl": "https://www.coupondunia.in/modules/web/assets/images/coupondunia-logo-og.png/"
     }
   ]
 }
