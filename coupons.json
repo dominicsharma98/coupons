@@ -1,0 +1,47 @@
+{
+  "coupons": [
+    {
+      "name": "7coupons",
+      "url": "https://7coupons.in/",
+      "purl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/NYCS-bull-trans-7-red.svg/2000px-NYCS-bull-trans-7-red.svg.png"
+    },
+    {
+      "name": "desidime",
+      "url": "https://www.desidime.com/coupons",
+      "purl": "https://cdn3.desidime.com/topics/photos/907396/medium/login_signup_logo-bee8591c9afd8f7997e5ebbaefb8ac5a.png"
+    },
+    {
+      "name": "Oneindia Coupons",
+      "url": "https://coupons.oneindia.com/",
+      "purl": "https://d1wgugustmojuh.cloudfront.net/images/wls/oneindia/logo.png"
+    },
+    {
+      "name": "flipp",
+      "url": "https://flipp.com/coupons",
+      "purl": "https://flipp.com/e4da0642/images/app-logo.png"
+    },
+    {
+      "name": "slickdeals",
+      "url": "https://slickdeals.net/coupons/",
+      "purl": "https://static.slickdealscdn.com/images/avatar/sd/redesign/slickdeals.png"
+    },
+    {
+      "name": "amazon",
+      "url": "https://www.amazon.com/Coupons/b?ie=UTF8&node=2231352011",
+      "purl": "http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png"
+    },
+    
+    {
+      "name": "Couponzguru",
+      "url": "https://www.couponzguru.com/",
+      "purl": "https://www.couponzguru.com/wp-content/uploads/logo.png"
+    },
+    {
+      "name": "Mcdonaldsvijay",
+       
+      "url": "https://www.mcdonalds.com/us/en-us/deals.html",
+      "purl": "https://www.pngarts.com/files/3/Mcdonalds-Logo-PNG-Image.png"
+    }
+    
+  ]
+}
